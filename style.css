@@ -7,7 +7,10 @@
      background-size: cover;
     background-image: url('pexels-karolina-grabowska-5485112.jpg');
   }
- 
+ audio{
+     opacity: .01;
+     height: 3px;
+ }
  .fp{
      border-radius: 8px;
  }
