@@ -3,24 +3,20 @@
 
 }
 
-
- body{ background-size: cover;
-  background-size:cover;
- 
+ body{ 
+     background-size: cover;
     background-image: url('pexels-karolina-grabowska-5485112.jpg');
-
   }
  
-
  .fp{
      border-radius: 8px;
  }
- .l{ border-radius: 5px;   
-
-    background: rgba(255, 255, 255, 0.226);
-box-shadow: 0 8px 32px 0 rgba(185, 165, 175, 0.37);
-backdrop-filter: blur( 3px );
--webkit-backdrop-filter: blur( 3px );
+ .l{ 
+ border-radius: 5px;   
+ background: rgba(255, 255, 255, 0.288);
+box-shadow: 0 8px 32px 0 rgba(185, 165, 175, 0.315);
+backdrop-filter: blur( 4px );
+-webkit-backdrop-filter: blur( 4px );
 border-radius: 10px;
 border: 1px solid rgba( 255, 255, 255, 0.18 );
  }
