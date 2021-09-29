@@ -1,0 +1,32 @@
+*{
+    margin: 0;padding: 0;box-sizing: border-box;
+}
+
+
+ body{ background-size: cover;
+  background-size:cover;
+    background-image: url('pexels-karolina-grabowska-5485112.jpg');
+    /* background: linear-gradient(to right,#AA9ACF,#d1a9f1); */
+  }
+  embed{
+      visibility: hidden;
+  }
+
+ .fp{
+     border-radius: 8px;
+ }
+ .l{ border-radius: 5px;   
+    /* background-color: rgba(240, 240, 240, 0.541); */
+    background: rgba(255, 255, 255, 0.226);
+box-shadow: 0 8px 32px 0 rgba(185, 165, 175, 0.37);
+backdrop-filter: blur( 3px );
+-webkit-backdrop-filter: blur( 3px );
+border-radius: 10px;
+border: 1px solid rgba( 255, 255, 255, 0.18 );
+ }
+ @media (max-width:768px) {
+     
+    .container{
+     width: 70%;
+    }
+ }
